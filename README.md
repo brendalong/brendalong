@@ -5,6 +5,15 @@
                     
 
 ##
+### A few things I have been working on:
+* 😆 [Tell Me A Joke](https://brendalong.github.io/tell-me-a-joke/)
+* 🌲 [My Christmas List](https://brendalong.github.io/christmas-list/)
+* 🦖 [Poké Binder](https://brendalong.github.io/poke-binder/)
+
+
+* 🐘 [Mabell's Zoo](https://mabellszoo.com/)
+* ☀️ [Mabell's Days](https://mabellsdays.com/)
+* 🌮 [HelloBJLong](https://hellobjlong.com)
 <!--
 **brendalong/brendalong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
